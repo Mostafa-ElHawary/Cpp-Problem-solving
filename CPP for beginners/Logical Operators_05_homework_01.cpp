@@ -17,7 +17,8 @@ int main()
 	int a = 10, b = 20, c = 30, d = 40;
 
 	cout << (a + b == c) << "\n";		  // true 1
-	cout << (a + b + c >= 2 * d) << "\n"; // true 1 x
+
+	cout << (a + b + c >= 2 * d) << "\n"; // false 0 
 
 	// true   || false
 	cout << (a > 5 || d < 30) << "\n"; // true 1
@@ -44,7 +45,7 @@ int main()
 	cout << (a == 10 || b != 20 && c != 30 || d != 40) << "\n"; // false  x
 
 	       // true    || false    && false   || false
-	cout << ((a == 10 || b != 20) && c != 30 || d != 40) << "\n"; // false
+	cout << ((a == 10 || b != 20) && c != 30 || d != 40) << "\n"; // false 0
 
 	return 0;
 }
