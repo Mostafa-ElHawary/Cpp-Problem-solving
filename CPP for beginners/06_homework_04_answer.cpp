@@ -9,9 +9,22 @@
 using namespace std;
 
 
+// int main()
+// {  int num;
+//     cin >> num;
+//     cout << (num / 1000) % 10 << "\n";
+//     return 0;
+// }
+
+// solution 2 
+
 int main()
-{  int num;
+{
+  int num;
     cin >> num;
-    cout << (num / 1000) % 10 << "\n";
+    if(num/1000 == 0) cout << 0 ;
+     cout << (num / 1000) % 10;
+
     return 0;
+    
 }
