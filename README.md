@@ -14,4 +14,4 @@
 # Blind-leetcode-questions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Solutions   |                  
 |-----|----------------|--------------- |--------|-------------|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Solution](./blob/main/CPP_for_beginners/217Contains_Duplicate.cpp) |
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Solution](https://github.com/Azzi-Mo/Cpp-Problem-solving/blob/main/CPP_for_beginners/217Contains_Duplicate.cpp) |
