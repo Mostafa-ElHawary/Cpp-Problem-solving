@@ -3,12 +3,16 @@
 #include <vector>
 using namespace std;
 
-class Solution {
+class Solution
+{
 public:
-    bool containsDuplicate(std::vector<int>& nums) {
+    bool containsDuplicate(std::vector<int> &nums)
+    {
         std::unordered_set<int> set;
-        for (int num : nums) {
-            if (set.count(num)) {
+        for (int num : nums)
+        {
+            if (set.count(num))
+            {
                 return true;
             }
             set.insert(num);
