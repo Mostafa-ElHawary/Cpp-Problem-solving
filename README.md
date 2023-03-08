@@ -8,7 +8,7 @@
 
 
 # Leetcode-Solutions
-This folder contains solutions to the most common questions in Leetcode. These questions are frequently asked in coding interviews, so solving them will help you prepare for technical interviews.
+ These questions are frequently asked in coding interviews, so solving them will help you prepare for technical interviews.
 
 
 # Blind-leetcode-questions.:bulb:
