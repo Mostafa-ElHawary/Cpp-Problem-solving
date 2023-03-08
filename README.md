@@ -14,4 +14,4 @@ This folder contains solutions to the most common questions in Leetcode. These q
 # Blind-leetcode-questions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Solutions   |                  
 |-----|----------------|--------------- |--------|-------------|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Solution](..blob/main/CPP_20for_20beginners/217Contains_20Duplicate.cpp) |
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Solution](../blob/main/CPP_for_beginners/217Contains_Duplicate.cpp) |
