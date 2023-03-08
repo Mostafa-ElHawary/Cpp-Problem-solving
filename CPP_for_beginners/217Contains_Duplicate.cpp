@@ -6,9 +6,9 @@ using namespace std;
 class Solution
 {
 public:
-    bool containsDuplicate(std::vector<int> &nums)
+    bool containsDuplicate(vector<int> &nums)
     {
-        std::unordered_set<int> set;
+        unordered_set<int> set;
         for (int num : nums)
         {
             if (set.count(num))
@@ -20,3 +20,12 @@ public:
         return false;
     }
 };
+
+int main()
+{
+    Solution solution;
+    std::vector<int> nums = {1, 2, 3, 1};
+    bool result = solution.containsDuplicate(nums);
+    std::cout << std::boolalpha << result << std::endl;
+    return 0;
+}
