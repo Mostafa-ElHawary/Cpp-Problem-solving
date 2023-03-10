@@ -12,6 +12,6 @@
 
 
 # Blind-leetcode-questions.:bulb:
-|  #  |      Title     |   Difficulty   | Topic  | Solutions   |                  
-|-----|----------------|--------------- |--------|-------------|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Solution](https://github.com/Azzi-Mo/Cpp-Problem-solving/blob/main/CPP_for_beginners/217Contains_Duplicate.cpp) |
+|  #  |      Title     |   Difficulty   | Topic  | Cpp Solutions | Js Solutions |                 
+|-----|----------------|--------------- |--------|---------------|--------------|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[CppSolution](https://github.com/Azzi-Mo/Cpp-Problem-solving/blob/main/CPP_for_beginners/217Contains_Duplicate.cpp) |[JsSolution](https://github.com/Azzi-Mo/JS-ProblemSolving/blob/main/LeetCode/217.%20Contains%20Duplicate.js)
